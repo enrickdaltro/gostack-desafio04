@@ -1,0 +1,25 @@
+.content {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+div#header {
+    height: 64px;
+    background: #4a90e2;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+    position: relative;
+}
+
+div#header .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    color: white;
+}
+
+div#header .content .left {
+    font-size: 18px;
+    font-weight: bold;
+}
