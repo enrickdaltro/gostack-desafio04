@@ -38,4 +38,5 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ### Tela da aplicação
 
+![Screen Shot 2020-02-10 at 11 49 40](https://user-images.githubusercontent.com/49761746/74160584-649bdf00-4bfc-11ea-8b76-186cf94d5d0d.png)
 
